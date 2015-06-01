@@ -6,7 +6,7 @@ Example of use:
 ```javascript
   
         if (!ieUserAgent.isIE) {
-            window.location.href = '/connect';
+            window.location.href = '/incompatibility';
         }
 
         var val = "IE" + ieUserAgent.version;
