@@ -1,5 +1,5 @@
 # ieUserAgent
-Detect whether or not the browser is IE
+Detect when or not the browser is IE
 
 Example of use:
 
